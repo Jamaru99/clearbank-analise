@@ -13,4 +13,3 @@ Este projeto é a solução do desafio final de Análise de Dados da Rocketseat.
 Ao rodar todas as células do notebook, o script gera três resultados principais:
 1. **Relatório no Terminal:** Um resumo impresso na tela contendo a contagem de linhas processadas, as métricas agrupadas por mês (saldo, total de crédito/débito, médias) e a lista de transações suspeitas.
 2. **Arquivo `relatorio.json`:** Um arquivo gerado automaticamente com a estrutura de dados consolidada da análise.
-3. **Arquivo `grafico.png`:** Uma imagem contendo o gráfico de barras que visualiza o saldo mensal gerado pela análise.
